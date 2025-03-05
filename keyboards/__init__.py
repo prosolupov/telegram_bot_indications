@@ -1,0 +1,1 @@
+from keyboards.client_kb import kb_registration, kb_service, kb_owner, kb_calculation, kb_country, kb_select
